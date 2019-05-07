@@ -1,6 +1,6 @@
 # Work in the Open
 
-* Digital Standards
+* [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
   * Work in the Open
   * Reuse widely
 * Directive on Management of Information Technology
