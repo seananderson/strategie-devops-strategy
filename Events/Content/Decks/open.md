@@ -12,3 +12,6 @@
   * https://github.com/gcdevops
   * Join us!
   * Work with us!
+* Reach me:
+  * https://twitter.com/GuillCharest
+  * guillaume.charest@tbs-sct.gc.ca
