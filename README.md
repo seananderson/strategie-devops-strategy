@@ -1,2 +1,3 @@
-# ItStrategy
-Extreme Software Development Committee - IT Strategy 
+# Stratégie DevOps - DevOps Strategy
+
+Notre stratégie DevOps collective - Our collective DevOps Strategy
