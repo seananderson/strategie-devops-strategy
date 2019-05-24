@@ -34,6 +34,6 @@ Every software product needs continuous maintenance and upgrades to meet new saf
 
 ## Details of sequential proposal approach
 
-
+The sequential proposal approach (such as creating sequential TB Submissions for an initiative) will enable in creating a more responsive project plan to accommodate the changes based on the outcomes of each project phase. 
 
 ## References
