@@ -26,3 +26,4 @@ With the current (as is) configuration of GCCode, there are a few features that 
 |---		|---			|---					|
 | ESDC  	| Jayson McIntosh  	| Acting Manager / Technical Advisor  	|
 | ESDC		| Remy Bernard		| Manager (on interchange)		|
+| ESDC | Shaun Laughland | Programmer Analyst |
