@@ -37,7 +37,7 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 
 - Each department which leverages GCCode provides one employee who is responsible one day a week to contribute towards the maintenance and constant improvement of the GitLab instance 
 
-- A flat fee per user per department is charged to those departments using the service (cost reduction should occur 
+- A flat fee per user per department is charged to those departments using the service
 
 ## Supporting members
 
