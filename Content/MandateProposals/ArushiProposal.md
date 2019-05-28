@@ -38,8 +38,8 @@ Towards strategic implementation of network architecture and management of digit
 	
 ## Activities
 **_Policy and strategy development_**
-- Initiate new programs/projects and secure required funding/resources
-- Develop policies and program guidelines for digital products/services
+- Initiate new programs/projects and secure required funding/resources (_Who makes the submissions? Does each branch make their own submission? Does all submission go through CIO for approval first? Does IITB play a central role in project submissions? Within IITB is it Denis’s group that would do that?_)
+- Recommend policies and program guidelines for digital products/services (_Who approves or make decisions on policies?_)
 - Create 3-year plan for research and development strategy for DevOps
 - Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department  
 
@@ -53,6 +53,7 @@ Towards strategic implementation of network architecture and management of digit
 - Improve the sharing of information and resources between programs and across departments (How would bimodal work?)  
 
 **_Organization Engagement_**  
+- Coordinate with other departments to centralize use and allocation of IT resources 
 - Create/lead a working group (_invites members from across organizations_) for gathering information on prevailing IT challenges
 - Stimulate dialogues on the use of technology to improve services  
 
