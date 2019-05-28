@@ -24,9 +24,9 @@ Towards strategic implementation of network architecture and management of digit
 - Governance and strategy focus include:
   * Design principles for IT governance (_could introduce bimodal governance here_)
   * Investment and priorities (_will help create a new category of innovation projects_)
-  * Architecture (_preparing for the future_)
-  * Infrastructure use (_managing resources_)
-  * Client needs (_improving service through adoption of advanced technologies_)
+  * Architecture (_prepare for the future_)
+  * Infrastructure use (_manage resources_)
+  * Client needs (_improve service delivery through adoption of advanced technologies_)
   * Client engagement (_collect feedback and develop trust among citizen for use of data_)
 
 ## Mandate 
