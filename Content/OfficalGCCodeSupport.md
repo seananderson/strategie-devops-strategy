@@ -1,12 +1,8 @@
 ## Existing literature
 
-1. ESDC's Developer Community has [written an article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GCCode as their preferred solution for a standardized source control.  
+1. ESDC's Developer Community has [written an article](http://www.gcpedia.gc.ca/wiki/ESDC_Development_Community_-_GC_Code_Recommendation) promoting GCCode as their preferred solution for a standardized source control. The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
 
-..-The main set back of the tool is that it is unofficially supported, though given its benefits, ESDCs IT Strategy recommends that it should become the officially supported standard for all of the Government of Canada 
-
-2. [A wiki article](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standarized source control solution and makes a case for GCCode 
-
-..- The proposed initiative from the article is an integration of GCcode within the GCTools suite
+2. [A wiki article](https://wiki.gccollab.ca/GCcode/ConceptCase) was written supporting the move towards a government wide standarized source control solution and makes a case for GCCode. The proposed initiative from the article is an integration of GCcode within the GCTools suite
 
 ## Background 
 
