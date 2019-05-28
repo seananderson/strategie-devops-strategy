@@ -59,16 +59,16 @@ Towards strategic implementation of network architecture and management of digit
 - Stimulate dialogues on the use of technology to improve services  
 
 ## Benefits of Mode 2 governance style
-Adoption of lean culture and continuous/agile delivery practices for churning out new products and services
-Initiate exploratory programs without sacrificing risk aversion governing nature
-Tight alignment of programs with the branch priorities
-Improves time-to-market and product evolution (Principle: "Fail fast")
+Adoption of lean culture and continuous/agile delivery practices for churning out new products and services  
+Initiate exploratory programs without sacrificing risk aversion governing nature  
+Tight alignment of programs with the branch priorities  
+Improves time-to-market and product evolution (Principle: "Fail fast")  
 
 Additional notes:
-Decision-making – how will this change in the future? 
-Citizen decision-making – the system makes choices for the person?
-Autonomous governance – autonomous policy making
-Privacy - Resonating with the North American view on privacy, where the citizens have freedom to opt for sharing of their personal data - Does this mean that citizens who do not share their data cannot access the upgraded services experience?
+Decision-making – how will this change in the future?   
+Citizen decision-making – the system makes choices for the person?  
+Autonomous governance – autonomous policy making  
+Privacy - Resonating with the North American view on privacy, where the citizens have freedom to opt for sharing of their personal data - Does this mean that citizens who do not share their data cannot access the upgraded services experience?   
 Trust - 
-> _Priorities for Transformation 2018-2019 … ESDC Service Strategy and Service Transformation Plan_
-> “Mode 1 governance, then, is targeted at managing projects, while Mode 2 governance is about managing products.”
+> _Priorities for Transformation 2018-2019 … ESDC Service Strategy and Service Transformation Plan_   
+> “Mode 1 governance, then, is targeted at managing projects, while Mode 2 governance is about managing products.”   
