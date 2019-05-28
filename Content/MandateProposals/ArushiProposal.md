@@ -21,10 +21,13 @@ Theme for the branch - Innovation and Experimentation
 Towards strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of delivering seamless digital services and prepare for future adoption of AI for autonomous decision-making and service delivery
 
 ## Priorities
-- Innovate to transform ESDC's service delivery ??
-- Mobilize resources to act as a bimodal synchronizer for efficient running of low risk record/standard practices alongside high risk innovation practices
-- Define government IT processes under “Pace-layered systems - Records, Differentiation, Innovation” and synergize different business capabilities, giving flexibility in governance design for innovation and response to technological changes
-- Develop trust among the citizens on use of data by making the system(s) explainable - i.e. share information on the use of data, algorithms, recommendation engines, training data
+- Governance and strategy focus include:
+  * Design principles for IT governance (_could introduce bimodal governance here_)
+  * Investment and priorities (_will help create a new category of innovation projects_)
+  * Architecture (_preparing for the future_)
+  * Infrastructure use (_managing resources_)
+  * Client needs (_improving service through adoption of advanced technologies_)
+  * Client engagement (_collect feedback and develop trust among citizen for use of data_)
 
 ## Mandate 
 -	Adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)
