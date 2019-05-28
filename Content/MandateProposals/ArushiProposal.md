@@ -22,7 +22,7 @@ Towards strategic implementation of network architecture and management of digit
 
 ## Priorities
 - Governance and strategy focus include:
-  * Design principles for IT governance (_could introduce bimodal governance here_)
+  * Design principles for IT governance (_could introduce a new bimodal governance structure here_)
   * Investment and priorities (_will help create a new category of innovation projects_)
   * Architecture (_prepare for the future_)
   * Infrastructure use (_manage resources_)
@@ -30,10 +30,11 @@ Towards strategic implementation of network architecture and management of digit
   * Client engagement (_collect feedback and develop trust among citizen for use of data_)
 
 ## Mandate 
--	Adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)
--	Direct research strategy and developmental efforts _for DevOps_
--	Governing guidelines for use of AI and other autonomous decision-making technologies for service delivery 
--	(If suggesting a bimodal governance style) Act as the synchronizer for Mode 1 and Mode 2 governance practices (Mode 1: works for standardized business processes, Mode 2: works for implementing new ideas for differential or innovation)
+- (POLICY) Providing oversight and guidance on governance processes for IT projects/initiatives
+- (STRATEGY) Adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)
+- (STRATEGY & PRIORITY) Direct research strategy and developmental efforts for DevOps
+- (POLICY) Governing guidelines for use of AI and other autonomous decision-making technologies for service delivery
+- (RESOURCE ALLOCATION) Mobilize resources to act as a bimodal synchronizer for efficient running of low risk record/standard practices alongside high risk innovation practices
 	
 ## Activities
 -	Continuously monitor technology trends to keep pace with technological development
