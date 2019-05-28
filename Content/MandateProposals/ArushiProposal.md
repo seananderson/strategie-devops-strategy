@@ -31,7 +31,7 @@ Towards strategic implementation of network architecture and management of digit
 
 ## Mandate 
 - (POLICY) Providing oversight and guidance on governance processes for IT projects/initiatives
-- (STRATEGY) Adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)
+- (STRATEGY) Innovating service delivery and providing future direction/vision to ESDC digital services
 - (STRATEGY & PRIORITY) Direct research strategy and developmental efforts for DevOps
 - (POLICY) Governing guidelines for use of AI and other autonomous decision-making technologies for service delivery
 - (RESOURCE ALLOCATION) Mobilize resources to act as a bimodal synchronizer for efficient running of low risk record/standard practices alongside high risk innovation practices
@@ -41,7 +41,8 @@ Towards strategic implementation of network architecture and management of digit
 - Initiate new programs/projects and secure required funding/resources (_Who makes the submissions? Does each branch make their own submission? Does all submission go through CIO for approval first? Does IITB play a central role in project submissions? Within IITB is it Denis’s group that would do that?_)
 - Recommend policies and program guidelines for digital products/services (_Who approves or make decisions on policies?_)
 - Create 3-year plan for research and development strategy for DevOps
-- Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department  
+- Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department
+- Develop adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)  
 
 **_Program(s) Management_**  
 - Continuously monitor technology trends to keep pace with technological development
