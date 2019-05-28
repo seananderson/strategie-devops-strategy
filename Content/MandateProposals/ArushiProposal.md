@@ -24,7 +24,7 @@ Towards strategic implementation of network architecture and management of digit
 - Innovate to transform ESDC's service delivery ??
 - Mobilize resources to act as a bimodal synchronizer for efficient running of low risk record/standard practices alongside high risk innovation practices
 - Define government IT processes under “Pace-layered systems - Records, Differentiation, Innovation” and synergize different business capabilities, giving flexibility in governance design for innovation and response to technological changes
-- Develop trust among the citizens on use of data by making the system(s) explainable - i.e. share information on the use of data, alogorithms, recommendation engines, training data
+- Develop trust among the citizens on use of data by making the system(s) explainable - i.e. share information on the use of data, algorithms, recommendation engines, training data
 
 ## Mandate 
 -	Adoption strategy for modern/futuristic technology, including architecture design (enterprise, technical and solutions)
