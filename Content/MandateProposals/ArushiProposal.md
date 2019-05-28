@@ -37,12 +37,21 @@ Towards strategic implementation of network architecture and management of digit
 - (RESOURCE ALLOCATION) Mobilize resources to act as a bimodal synchronizer for efficient running of low risk record/standard practices alongside high risk innovation practices
 	
 ## Activities
--	Continuously monitor technology trends to keep pace with technological development
--	Perform risk identification and risk management (modern and secure technology)
--	Create 3-year plan for research and development strategy for DevOps
-- Network architecture design 
--	Develop policies and program guidelines for digital products/services
+**_Policy and strategy development_**
+- Initiate new programs/projects and secure required funding/resources
+- Develop policies and program guidelines for digital products/services
+- Create 3-year plan for research and development strategy for DevOps
+- Ensure that ESDC’s technology programs/initiatives aligns with the themes of the strategic framework and priorities of the department
+**_Program(s) Management_**
+- Continuously monitor technology trends to keep pace with technological development
+- Perform risk identification and risk management (modern and secure technology)
+- Network architecture design
+**_Resource Allocation_**
+- Allocate resources between various projects/initiatives 
 - Improve the sharing of information and resources between programs and across departments (How would bimodal work?)
+**_Organization Engagement_**
+- Create/lead a working group (_invites members from across organizations_) for gathering information on prevailing IT challenges
+- Stimulate dialogues on the use of technology to improve services
 
 ## Benefits of Mode 2 governance style
 Adoption of lean culture and continuous/agile delivery practices for churning out new products and services
