@@ -28,6 +28,10 @@ Planning ahead will help Canada to respond and even stay ahead of the technologi
 
 To safeguard the needs of Canadians and continuously improve their quality of life, ESDC should anticipate the needs and challenges of the future. ESDC should be prepared to redesign its programs and services to stay ahead to meet the changing needs of Canadians. ESDC should keep an open mind towards radical transformation of its program and service delivery practices to keep pace with the technological advances and prepare Canadians to take on more centric roles in the digital economy.   
 
+_Existing challenges in implementation_:
+-	Existing governance policies and practices are proven for past programs and services. Due to shift in the software development and implementation practices, these policies and practices may not best suited for transformational technologies and initiatives  
+-	Data and information sharing may need to be revisited to address current privacy and security debates  
+
 ## Vision of the branch
 Strategic planning and implementation of technology-oriented service delivery to fulfil ESDC’s mission of building a stronger, competitive and more inclusive Canada, and improving Canadians’ quality of life 
 ~~Towards (i) strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of transforming service delivery and (ii) preparation for future adoption of AI for autonomous decision-making and service delivery~~
