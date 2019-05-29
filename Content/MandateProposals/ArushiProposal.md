@@ -30,6 +30,7 @@ To safeguard the needs of Canadians and continuously improve their quality of li
 
 _Existing challenges in implementation_:
 -	Existing governance policies and practices are proven for past programs and services. Due to shift in the software development and implementation practices, these policies and practices may not best suited for transformational technologies and initiatives  
+-  At a global stage, innovation is outpacing regulation, so Canadian laws and regulations around technology use may need to be redefined   
 -	Data and information sharing may need to be revisited to address current privacy and security debates  
 
 ## Vision of the branch
