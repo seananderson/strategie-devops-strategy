@@ -17,8 +17,20 @@
 Theme for the branch - Innovation and Experimentation 
 >_The Strategic Framework identifies five themes that cut across the initiatives: Indigenous Reconciliation, Gender Impact and Equality, Vulnerable Groups, Policy-Service Integration, and Innovation and Experimentation._
 
+## Future role of ESDC
+_Current mandate of ESDC_: The mission of Employment and Social Development Canada (ESDC), including the Labour Program and Service Canada, is to build a stronger and more inclusive Canada, to support Canadians in helping them live productive and rewarding lives and to improve Canadians’ quality of life  
+
+_Current role of ESDC_: ESDC offers a range of programs and services such as seniors with basic income security, supports unemployed workers, helps students finance their post-secondary education and assists parents who are raising young children.   
+
+_Preparing for the future_: Role of technology in human lives is redesigning the way we function daily. Global trends are fast changing the economic and political situations around the world – redistributing wealth, the nature of work and opportunities. Technology giants are changing human preferences and habits and opening up a box of completely new …   
+
+Planning ahead will help Canada to respond and even stay ahead of the technological curve rather than react to the changes around us. In pursuit to continue to improve quality of life for Canadians, ESDC needs to manage these changes in society and be prepared towards unprecedented risks and disruption from global participants.    
+
+To safeguard the needs of Canadians and continuously improve their quality of life, ESDC should anticipate the needs and challenges of the future. ESDC should be prepared to redesign its programs and services to stay ahead to meet the changing needs of Canadians. ESDC should keep an open mind towards radical transformation of its program and service delivery practices to keep pace with the technological advances and prepare Canadians to take on more centric roles in the digital economy.   
+
 ## Vision of the branch
-Towards (i) strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of transforming service delivery and (ii) preparation for future adoption of AI for autonomous decision-making and service delivery
+Strategic planning and implementation of technology-oriented service delivery to fulfil ESDC’s mission of building a stronger, competitive and more inclusive Canada, and improving Canadians’ quality of life 
+~~Towards (i) strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of transforming service delivery and (ii) preparation for future adoption of AI for autonomous decision-making and service delivery~~
 
 ## Priorities
 - Governance focus include:
