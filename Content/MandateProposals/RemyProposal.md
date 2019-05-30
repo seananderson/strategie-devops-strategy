@@ -2,7 +2,7 @@
 Rémy's point of view for the ESDC IT Strategy team's mission, vision, and mandate
 
 ## Mission Statement (reason for existence)
-Provide strategic advice and direction to IITB and its stakeholders to harmonize digital initiatives, build IITB capabilities for continuous improvement, and move ESDC into the OneGov vision.
+Provide strategic advice and direction to IITB and its stakeholders to harmonize digital initiatives, build capabilities for continuous improvement, and move ESDC into the OneGov vision.
 
 ## Vision (image of the future)
 ESDC is a world class government digital service provider that continually improves Canada's ability to serve Canadians with efficient, easy, and reliable digital solutions.
