@@ -44,10 +44,16 @@ The scope of the IT Strategy team will be applicable across the entire organizat
 - Be efficient in managing its operations
 - Be connected with IM/IT partners and suppliers
 
-The IT Strategy...
+The IT Strategy team will look at the service delivery capability of IITB, and of the greater ESDC landscape as it relates to digital services, for the next ten-year horizon. This will be prioritized  and focused in support of the business priorities by the ESDC Service Transformation agenda.
+
+The IT Strategy team will work in the open and will engage ESDC stakeholders throughout their strategy development. These stakeholders will be IITB districts, developer communities, and greater Federal Government communities.
+
+The primary focus of the IT Strategy team will be in support of business outcomes, specifically as it relates to ESDC's modernization agenda and the Treasury Board's new Policy on Service and Digital. This will, in turn, determine initiatives to support for building the IITB and greater ESDC capabilities.
+
 
 ## Governance and Assurance
 ### Governance
+The governance of the IT Strategy will be directed by the Director General of Strategy, Architecture, and Business Relations. 
 
 ### Assurance
 
