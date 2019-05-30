@@ -28,7 +28,7 @@ GCCode is a instance of [GitLab Community Edition (CE)](https://gitlab.com/gitla
 * 155,596 notes
 * 394 snippets
 * 300 SSH Keys
-* 50 disticnt email domains (aka GC Organizations)
+* 50 distinct email domains (aka GC Organizations)
 
 
 ## Business case 
