@@ -18,24 +18,23 @@ Theme for the branch - Innovation and Experimentation
 >_The Strategic Framework identifies five themes that cut across the initiatives: Indigenous Reconciliation, Gender Impact and Equality, Vulnerable Groups, Policy-Service Integration, and Innovation and Experimentation._
 
 ## Future role of ESDC
-_Current mandate of ESDC_: The mission of Employment and Social Development Canada (ESDC), including the Labour Program and Service Canada, is to build a stronger and more inclusive Canada, to support Canadians in helping them live productive and rewarding lives and to improve Canadians’ quality of life  
+_Current mandate of ESDC_: The mission of Employment and Social Development Canada (ESDC), including the Labour Program and Service Canada, is to build a stronger and more inclusive Canada, to support Canadians in helping them live productive and rewarding lives and to improve Canadians’ quality of life
 
-_Current role of ESDC_: ESDC offers a range of programs and services such as seniors with basic income security, supports unemployed workers, helps students finance their post-secondary education and assists parents who are raising young children.   
+_Current role of ESDC_: ESDC offers a range of programs and services such as seniors with basic income security, supports unemployed workers, helps students finance their post-secondary education and assists parents who are raising young children. 
 
-_Preparing for the future_: Role of technology in human lives is redesigning the way we function daily. Global trends are fast changing the economic and political situations around the world – redistributing wealth, the nature of work and opportunities. Technology giants are changing human preferences and habits and opening up a box of completely new …   
+_Preparing for the future_: Role of technology in human lives is redesigning the way we function daily. Global trends are fast changing the economic and political situations around the world – redistributing wealth, the nature of work and opportunities. Technology giants and social influence are changing human preferences and habits. Global market outlook suggests emergence of new job roles, occupations and industries. 
 
-Planning ahead will help Canada to respond and even stay ahead of the technological curve rather than react to the changes around us. In pursuit to continue to improve quality of life for Canadians, ESDC needs to manage these changes in society and be prepared towards unprecedented risks and disruption from global participants.    
-
-To safeguard the needs of Canadians and continuously improve their quality of life, ESDC should anticipate the needs and challenges of the future. ESDC should be prepared to redesign its programs and services to stay ahead to meet the changing needs of Canadians. ESDC should keep an open mind towards radical transformation of its program and service delivery practices to keep pace with the technological advances and prepare Canadians to take on more centric roles in the digital economy.   
+~~Planning ahead will help Canada to respond and stay ahead of the technological curve rather than react to the changes around us.~~ In pursuit of improving quality of life for Canadians, ESDC needs to manage these changes in society and provide a support structure to prepare Canadians towards unprecedented risks and disruption from global participants. 
+~~To safeguard the needs of Canadians and continuously improve their quality of life, ESDC should anticipate the needs and challenges of the future. ESDC should be prepared to redesign its programs and services to stay ahead to meet the changing needs of Canadians. ESDC should keep an open mind towards radical transformation of its program and service delivery practices to keep pace with the technological advances and prepare Canadians to take on more centric roles in the digital economy.~~
 
 _Existing challenges in implementation_:
--	Existing governance policies and practices are proven for past programs and services. Due to shift in the software development and implementation practices, these policies and practices may not best suited for transformational technologies and initiatives  
--  At a global stage, innovation is outpacing regulation, so Canadian laws and regulations around technology use may need to be redefined   
--	Data and information sharing may need to be revisited to address current privacy and security debates  
+-	Existing governance policies and practices are proven for past programs and services. Due to shift in the software development and implementation practices, these policies and practices may not best suited for transformational technologies and initiatives
+-	At a global stage, innovation is outpacing regulation, so Canadian laws and regulations around technology use may need to be redefined 
+-	Data and information sharing may need to be revisited to address current privacy and security debates   
 
-## Vision of the branch
+~~## Vision of the branch
 Strategic planning and implementation of technology-oriented service delivery to fulfil ESDC’s mission of building a stronger, competitive and more inclusive Canada, and improving Canadians’ quality of life 
-~~Towards (i) strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of transforming service delivery and (ii) preparation for future adoption of AI for autonomous decision-making and service delivery~~
+Towards (i) strategic implementation of network architecture and management of digital products to fulfil government’s aspiration of transforming service delivery and (ii) preparation for future adoption of AI for autonomous decision-making and service delivery~~
 
 ## Priorities
 - Governance focus include:
@@ -47,6 +46,8 @@ Strategic planning and implementation of technology-oriented service delivery to
      *	Client engagement (_collect feedback and develop trust among citizen for use of data_)    
 
 ## Mandate
+Our mandate is to envision the role of ESDC in the fast changing landscape of social behaviour and needs, and drive human-centric service delivery through transformational technology and innovation
+
 -	(POLICY) Providing oversight and guidance on governance processes for IT projects/initiatives 
 -	(STRATEGY) Innovating service delivery and providing future direction/vision to ESDC digital services
 -	(STRATEGY & PRIORITY) Direct research strategy and developmental efforts for DevOps
