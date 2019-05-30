@@ -58,7 +58,8 @@ Our mandate is to architect and support implementation of a secure foundation of
 ## Priorities of the branch
 -	(STRATEGY) Envisioning and architecting a secure and central system to lay the foundation for digital transformation  
 -	(STRATEGY & PRIORITY) Providing foresight and prioritising investment on transformational service delivery programs   
--	(STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps  
+- (POLICY) Forge partnerships with private sector to utilize business processes and share information to align service delivery goals 	  
+- (STRATEGY & PRIORITY) Direct research strategy and developmental efforts for innovation teams such as DevOps  
 -	(POLICY) Initiate dialogues to continuously evolve on using next-generation technologies   
 -	(POLICY) Recommend governing guidelines for the use of data and technologies   
 -	(RESOURCE ALLOCATION) Mobilize resources to support quick turn around time to deploy innovation practices, and act as a synchronizer for efficient running of existing practices alongside the new practices  
