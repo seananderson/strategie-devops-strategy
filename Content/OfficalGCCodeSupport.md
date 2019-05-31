@@ -1,5 +1,5 @@
 ## Purpose
-To bring [GCCode](https://gccode.ssc-spc.gc.ca) as an official supported source control solution for the Government of Canada's developer community.
+To bring [GCCode](https://gccode.ssc-spc.gc.ca) as an officially supported source control solution within the Government of Canada's developer community.
 
 ## Existing literature
 
