@@ -80,3 +80,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | SSC | Jeff Barnes | Senior Advisor |
 | DFO | Daniel Ricard | Senior Biologist |
 | DFO | David Fishman | Data Manager |
+| CEDQ | Sebastien Metivier | Team Lead - Integration |
