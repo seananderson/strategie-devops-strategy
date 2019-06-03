@@ -36,14 +36,20 @@ The agreed-on value of the IT Strategy practice for the next year will be in ass
 - An ESDC IT Strategy
 - A set of recommendations on IITB organization design to move IITB as a service-oriented organization
 - A set of recommendations on ESDC governance models with a focus on innovation support
-- Proposals on adoption of new technologies to support digital business
+- Proposals on adoption of new technologies to support digital business,and guidance on their ethical use
+- A set of recommendations on ESDC's service delivery transformation to move to a digital service organization
 
 ### Metrics
 | Objective | Metric | Proposed Date |
 |---|---|---|
 |Team Mandate|Team Mandate statement approved by ESDC CIO|July 28, 2019|
 |IT Strategy Capability|ConOps and Strategy Playbook|Nov 1, 2019|
-|ESDC Horizon Diagnostic|Report on the government of canada's horizon landscape and how it will disrupt ESDC's service offering|Jan 1, 2020|
+|ESDC Horizon Diagnostic|Report on the government of canada's digital horizon landscape and how it will disrupt ESDC's service offering|Jan 1, 2020|
+|IT Strategy||TBD|
+|Architectural and Governance models for innvation|Architectural support for bimodal approach agreed on at the ARB. PMO governance agreeing to bimodal approach|TBD|
+|Technology innovation model|Number of IT Standards changes to reflecting modern DevOps practices|TBD|
+|Team Dynamics|Number of releases going to production per months|TBD|
+|Service Oriented|Number of foundational elements produced by IITB, supported by ARB and used by the Solution Architecture team|TBD|
 
 ## Scope
 The scope of the IT Strategy team will be applicable across the entire organization and framed by 
