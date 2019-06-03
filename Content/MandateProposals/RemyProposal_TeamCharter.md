@@ -68,7 +68,19 @@ The primary focus of the IT Strategy team will be in support of business outcome
 
 ## Governance and Assurance
 ### Governance
-The governance of the IT Strategy will be directed by the Director General of Strategy, Architecture, and Business Relations. 
+The governance of the IT Strategy will be generally directed by the Director General of Strategy, Architecture, and Business Relations (SABR). More specific directions will come from community engagement, TBS Digital Policy, ESDC Service Transformation Goals, and industry foresight.
+
+The team will engage periodically with the following communities:
+- GCDevOps
+- ESDC IT Research
+- ...
+
+The decisions will be made based on peer-reviewed of artefacts and ratification of such artefacts by the DG Strategy, Architecture, and Business Relations.
 
 ### Assurance
+The IT Strategy team will act as change agents to initiate the execution of the IT Strategies, identifying resistance and opportunities. IT Strategies will have considered the organizational current culture. Where resistance to change falls outside of the team's authority, escalation to the DG SABR will be used via briefing notes identifying the issue and recommendations.
+
+Community engagement and relationships will be key to the success of IT Strategies. The team will foster strong relationship with the communities mentioned above to seek broad community support (bottom up approach) before strategies can be proposed to senior management (top down approach).
+
+The IT Strategy team will assure it does not fall within the ivory tower trap by adhering to the concept of [the strategy is getting it done](https://twitter.com/AlexBenay/status/962712226741268480) and developing strategies for carving out space for the community to innovate.
 
