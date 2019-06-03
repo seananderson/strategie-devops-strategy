@@ -78,3 +78,4 @@ SSC and PSPC-Digital Services Branch are two Departments mandated with providing
 | TC | Stephen Bakalian | Programmer Analyst |
 | PSC | Md Alam | Middleware Operations |
 | SSC | Jeff Barnes | Senior Advisor |
+| DFO | Daniel Ricard | Senior Biologist |
